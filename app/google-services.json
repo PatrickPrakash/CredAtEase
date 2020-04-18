@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "33392501892",
+    "firebase_url": "https://credatease.firebaseio.com",
+    "project_id": "credatease",
+    "storage_bucket": "credatease.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33392501892:android:f199249e46919a404c4ed1",
+        "android_client_info": {
+          "package_name": "com.cred.ease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33392501892-6td1ri74v0v7lpp702sdrct8n41hhke8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cred.ease",
+            "certificate_hash": "2430d6fc6402af4d67ef5c223612fbac83974cc6"
+          }
+        },
+        {
+          "client_id": "33392501892-vnh8909m30hhmc7t3347lru1cvo3so3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy2V3XnWhq1P8RTl2PJYTc9IibpMPD5RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33392501892-vnh8909m30hhmc7t3347lru1cvo3so3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
